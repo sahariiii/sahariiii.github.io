@@ -1,0 +1,31 @@
+/* Profile Section Styling */
+#profile {
+    padding: 20px;
+    text-align: center;
+}
+
+#profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#profile h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+#profile p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+#profile a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#profile a:hover {
+    text-decoration: underline;
+}
