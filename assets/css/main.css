@@ -4270,7 +4270,7 @@
 	}
 
 	a {
-		/*color: #000000;*/ /*#98c593;*/
+		color: #3090C7;
 
 		-moz-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
 		-webkit-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -4280,7 +4280,7 @@
 	}
 
 	a:hover {
-    color: #FFFF99;
+    color: #1d6a91;
 	}
 
 	a#overwhite:hover {color:#3090C7}
