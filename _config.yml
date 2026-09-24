@@ -1,8 +1,7 @@
 title: Sahar Soltanieh
 email: sahar.soltanieh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  AI for health researcher, specializing in self-supervised learning for
-  physiological time-series data.
+  AI/ML dedveloper in pediatric neuroimaging and federated learning at SickKids, Toronto
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sahariiii.github.io"
 github_username: sahariiii
